@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NextJS SaaS AI Boilerplate by [BuilderKit.ai](https://www.builderkit.ai)
 
 `NextJs` `Shadcn` `Supabase` `Payments` `AI Modules` `Email Integrations` `SEO` `Crisp`
@@ -158,3 +159,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://www.bu
 ## Contact
 
 For any inquiries or issues, please open an issue on the [GitHub repository](https://github.com/1811-Labs-LLC/BuilderKit) or contact the author at [vatsal1811@gmail.com](mailto:vatsal1811@gmail.com).
+=======
+# aiagents
+>>>>>>> origin/main
